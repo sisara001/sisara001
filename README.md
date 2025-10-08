@@ -25,15 +25,4 @@ It visualizes your GitHub profile, repositories, stars, forks, and language usag
 
 ---
 
-## 🧰 Setup
 
-```bash
-# Clone the repository
-git clone https://github.com/sisara001/github-dashboard.git
-cd github-dashboard
-
-# Install dependencies
-npm install
-
-# Run locally
-npm run dev
